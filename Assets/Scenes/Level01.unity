@@ -3061,6 +3061,8 @@ MonoBehaviour:
   rb: {fileID: 1789635641}
   forwardForce: 4000
   sidewaysForce: 25
+  upwardsForce: 10
+  mass: 0
 --- !u!54 &1789635641
 Rigidbody:
   m_ObjectHideFlags: 0
