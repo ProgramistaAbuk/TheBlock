@@ -8,7 +8,7 @@ public class pausegame : MonoBehaviour
     public pause pause;
     // Update is called once per frame
     void Update () { 
-        if (Input.GetKey(KeyCode.Escape)) {
+        if (Input.GetKeyUp(KeyCode.Escape)) {
             //Thread.Sleep is used to pause game
             gamePaused = !gamePaused;
             // Thread.Sleep(1000);;
