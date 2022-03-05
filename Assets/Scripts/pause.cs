@@ -13,20 +13,12 @@ public class pause : MonoBehaviour
     // public float restartDelay;
 
     public void PauseControl() {
-
         pauseUI.SetActive(true);
-
-
-            
-
         }
         
     public void ResumeControl() { 
         pauseUI.SetActive(false);
-            Time.timeScale = 1f;
-
-
-        
+            Time.timeScale = 1f;    
     }
     
     public void AnimationPause() {
