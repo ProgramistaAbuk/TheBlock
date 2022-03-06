@@ -25,5 +25,7 @@ public class pause : MonoBehaviour
             Time.timeScale = 0f;
     }
 
-    
+
+
+
 }
