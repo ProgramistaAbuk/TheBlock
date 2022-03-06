@@ -15,17 +15,21 @@ public class pause : MonoBehaviour
     public void PauseControl() {
         pauseUI.SetActive(true);
         }
-        
-    public void ResumeControl() { 
-        pauseUI.SetActive(false);
-            Time.timeScale = 1f;    
-    }
-    
     public void AnimationPause() {
             Time.timeScale = 0f;
     }
 
 
 
+    public void ResumeControl() { 
+        pauseUI.SetActive(false);
+            Time.timeScale = 1f;    
+    }   
+    public void ResumeButtonControl() {
+        pauseUI.SetActive(false);
+            Time.timeScale = 1f;
+    }
+    
 
+    
 }
