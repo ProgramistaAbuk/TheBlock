@@ -8,6 +8,8 @@ public class pause : MonoBehaviour
 
     public GameObject pauseUI;
 
+    public bool buttonPause = false;
+ 
 //how to make a slider:
     // [Range(1.0f, 10.0f)]
     // public float restartDelay;
@@ -31,5 +33,5 @@ public class pause : MonoBehaviour
     }
     
 
-    
+
 }
