@@ -2,7 +2,7 @@
 -------------------------
 Version 1.021
 
-New Features!
+New Features! ✨
  - Added better jump feature
  - Started work on removing jump glitch
  - Now able to close window without having to finish all levels
@@ -10,6 +10,6 @@ New Features!
  - Better quality
  - Started work on Levels menu
 
-Have a fun!
+Have fun!
 
 
