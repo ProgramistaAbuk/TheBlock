@@ -1,11 +1,20 @@
 🚀 TheBlock Current V2.0
 ---------------
 
-V2.0 Features
+V2.1 Features
 ----------------
-Started and Almost finished levels screen |
-Fixed the saving problem |
-Added Levels button to pause screen |
+Finished level screen |
+----------------
+
+🕷 Bugs
+----------------
+Levels screen updating no saving |
+
+🛠 V2.2 Predictions
+----------------
+Fixing listed bug |
+Adding game on Steam |
+
 
 
 
