@@ -36,7 +36,10 @@ public class PlayerMovement : MonoBehaviour
         onStart.OnStarts();
         touch_ground = true;
     }
-
+    void Update()
+    {
+        
+    }
     void FixedUpdate()
     {
 
