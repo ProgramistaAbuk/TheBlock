@@ -1,14 +1,11 @@
 🚀 TheBlock Current V2.0
 ---------------
 
-V2.1 Features
+V2.2 Features
 ----------------
-Finished level screen |
-
-
-🕷 Bugs
-----------------
-Levels screen updating no saving |
+Finished working level screen |
+Added Auto Load |
+Added Manual Load |
 
 🛠 V2.2 Predictions
 ----------------
