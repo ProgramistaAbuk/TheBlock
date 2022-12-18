@@ -4,7 +4,7 @@
 V2.1 Features
 ----------------
 Finished level screen |
-----------------
+
 
 🕷 Bugs
 ----------------
