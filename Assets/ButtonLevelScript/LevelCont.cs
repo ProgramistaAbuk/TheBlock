@@ -46,10 +46,13 @@ public class LevelCont : MonoBehaviour
         if (loadData.level == 2)
         {
             B.interactable = true;
+            C.interactable = false;
         }
 
         if (loadData.level == 3)
         {
+            B.interactable = true;
+
             C.interactable = true;
         }
 
@@ -71,10 +74,12 @@ public class LevelCont : MonoBehaviour
         if (LoadLevButton == 2)
         {
             B.interactable = true;
+            C.interactable = false;
         }
 
-        else if (LoadLevButton == 3)
+        if (LoadLevButton == 3)
         {
+            B.interactable = true;
             C.interactable = true;
         }
 

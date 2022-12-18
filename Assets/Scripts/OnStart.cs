@@ -70,14 +70,14 @@ public class OnStart : MonoBehaviour
         }*/
             /*PlayerPrefs.GetInt("level");*/
             /*level = PlayerPrefs.GetInt("level");*/
-            if (loadLevel == 2)
+      /*      if (loadLevel == 2)
             {
                 SceneManager.LoadScene("Level02");
             }
             if (loadLevel == 3)
             {
                 SceneManager.LoadScene("Level03");
-            }
+            }*/
         }
     public void Save()
     {
