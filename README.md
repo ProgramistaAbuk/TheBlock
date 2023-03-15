@@ -1,17 +1,13 @@
 🚀 TheBlock Current V2.0
 ---------------
 
-V2.0 Features
+V2.3 Features
 ----------------
-Finished working level screen |
-Added Auto Load |
-Added Manual Load |
+Finished Credits option | Added nice animations and curves | New Build
 
-🛠 V2.2 Predictions
+🛠 V2.4 Predictions
 ----------------
-Fixing listed bug |
-Finishing mane menu |
-Adding more settings / options
+Adding more settings/options | Fixing Bugs
 
 
 
