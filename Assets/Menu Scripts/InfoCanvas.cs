@@ -6,8 +6,10 @@ public class InfoCanvas : MonoBehaviour
 {
 
     public GameObject Overlay;
-    public GameObject CreditsOver;
     public Animator animator;
+
+    public GameObject CreditsOver;
+    public Animator animatorC;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,7 +18,7 @@ public class InfoCanvas : MonoBehaviour
 
     public void show()
          {
-        Overlay.gameObject.SetActive(false);
+
         Overlay.gameObject.SetActive(true);
 
     }
@@ -35,9 +37,23 @@ public class InfoCanvas : MonoBehaviour
         animator.SetBool("run", false);
         Overlay.gameObject.SetActive(false);
     }
+    // Credits
+    public void showCredits()
+    {
+        CreditsOver.gameObject.SetActive(true);
+    }
 
+    public void hideCredits()
+    {
+        animatorC.SetBool("run", true);
+        CreditsOver.gameObject.SetActive(false);
+    }
 
-
+    public void endCreditsExit()
+    {
+        animatorC.SetBool("run", false);
+        CreditsOver.gameObject.SetActive(false);
+    }
 
     void Update()
     {

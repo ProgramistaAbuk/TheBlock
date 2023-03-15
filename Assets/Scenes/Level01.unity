@@ -710,7 +710,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 80c395848dfc2c64d89c356cc2020c04, type: 2}
+  - {fileID: 2100000, guid: ccb979461b67c31469d79170de880697, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3105,7 +3105,7 @@ PrefabInstance:
     - target: {fileID: 1401622795267998138, guid: db2e7784fc866a1f58300fb042e6c8cc, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e5d74f6e3d30ef645b53a7fa8650d931, type: 2}
+      objectReference: {fileID: 2100000, guid: 24d1a5ef598975146a5d15795f11b775, type: 2}
     - target: {fileID: 1401622795267998140, guid: db2e7784fc866a1f58300fb042e6c8cc, type: 3}
       propertyPath: m_Name
       value: Ground
